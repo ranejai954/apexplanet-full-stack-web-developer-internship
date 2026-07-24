@@ -48,16 +48,41 @@ TechNova/
 └── README.md
 ```
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-Add screenshots of:
+## 🏠 Home Page
 
-* Home Page
-* About Page
-* Services Page
-* Portfolio Page
-* Blog Page
-* Contact Page
+![Home Page](images/home.png)
+
+---
+
+## 👨‍💼 About Page
+
+![About Page](images/about.png)
+
+---
+
+## 🛠️ Services Page
+
+![Services Page](images/services.png)
+
+---
+
+## 💼 Portfolio Page
+
+![Portfolio Page](images/portfolio.png)
+
+---
+
+## 📰 Blog Page
+
+![Blog Page](images/blog.png)
+
+---
+
+## 📞 Contact Page
+
+![Contact Page](images/contact.png)
 
 ## 🚀 Live Demo
 
