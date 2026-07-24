@@ -76,13 +76,13 @@ TechNova/
 
 ## 📰 Blog Page
 
-![Blog Page](images/Blog.png)
+![Blog Page](images/BlogPage.png)
 
 ---
 
 ## 📞 Contact Page
 
-![Contact Page](images/Contact Page.png)
+![Contact Page](images/ContactPage.png)
 
 ## 🚀 Live Demo
 
