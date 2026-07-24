@@ -52,31 +52,31 @@ TechNova/
 
 ## 🏠 Home Page
 
-![Home Page](images/home.png)
+![Home Page](images/HomePage.png)
 
 ---
 
 ## 👨‍💼 About Page
 
-![About Page](images/about.png)
+![About Page](images/AboutPage.png)
 
 ---
 
 ## 🛠️ Services Page
 
-![Services Page](images/services.png)
+![Services Page](images/Services.png)
 
 ---
 
 ## 💼 Portfolio Page
 
-![Portfolio Page](images/portfolio.png)
+![Portfolio Page](images/Portfolio.png)
 
 ---
 
 ## 📰 Blog Page
 
-![Blog Page](images/blog.png)
+![Blog Page](images/Blog.png)
 
 ---
 
