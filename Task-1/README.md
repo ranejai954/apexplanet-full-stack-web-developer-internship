@@ -82,7 +82,7 @@ TechNova/
 
 ## 📞 Contact Page
 
-![Contact Page](images/contact.png)
+![Contact Page](images/ContactPage.png)
 
 ## 🚀 Live Demo
 
